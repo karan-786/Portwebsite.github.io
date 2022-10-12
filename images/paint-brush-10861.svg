@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<desc>Created with Fabric.js 1.7.22</desc>
+<defs>
+</defs>
+<g transform="translate(128 128) scale(0.72 0.72)" style="">
+	<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+	<path d="M 66.314 0 H 23.686 C 10.625 0 0 10.625 0 23.686 v 42.629 C 0 79.375 10.625 90 23.686 90 h 42.629 C 79.375 90 90 79.375 90 66.314 V 23.686 C 90 10.625 79.375 0 66.314 0 z M 37.166 63.751 c -2.255 2.255 -4.545 3.181 -6.956 3.181 c -2.78 0 -5.72 -1.232 -8.954 -3.079 L 19.5 62.851 l 1.944 -0.559 c 2.631 -0.756 4.664 -2.473 8.226 -6.037 c 2.067 -2.066 5.43 -2.066 7.496 0 C 39.233 58.322 39.233 61.685 37.166 63.751 z M 69.956 26.522 L 41.534 57.467 l -0.46 -1.373 c -0.29 -0.866 -0.786 -1.666 -1.433 -2.313 c -0.595 -0.595 -1.329 -1.066 -2.124 -1.361 l -1.306 -0.487 l 30.834 -28.32 c 0.816 -0.751 2.067 -0.723 2.85 0.059 C 70.678 24.455 70.704 25.707 69.956 26.522 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</g>
+</svg>
